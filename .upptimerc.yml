@@ -1,6 +1,6 @@
 # Change these first
 owner: chillwave # Your GitHub organization or username, where this repository lives
-repo: upptime.valdi-via # The name of this repository
+repo: uptime.valdi-via # The name of this repository
 
 sites:
   - name: DC 104XX
@@ -13,6 +13,7 @@ sites:
     port: 443
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: statmon.valdi-via.com
