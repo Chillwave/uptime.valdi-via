@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/119xx.valdi-via.com.ico",
     "slug": "dump1090-sfl",
     "status": "up",
-    "uptime": "50.77%",
-    "uptimeDay": "50.77%",
-    "uptimeWeek": "50.77%",
-    "uptimeMonth": "50.77%",
-    "uptimeYear": "50.77%",
-    "time": 501,
-    "timeDay": 501,
-    "timeWeek": 501,
-    "timeMonth": 501,
-    "timeYear": 501,
-    "dailyMinutesDown": {
-      "2024-05-02": 58
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 458,
+    "timeDay": 458,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
+    "dailyMinutesDown": {}
+  }
   },
   {
     "name": "AT&T - Outage Map",
@@ -97,18 +96,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/verizon.com.ico",
     "slug": "verizon-status-center",
     "status": "up",
-    "uptime": "41.37%",
-    "uptimeDay": "41.37%",
-    "uptimeWeek": "41.37%",
-    "uptimeMonth": "41.37%",
-    "uptimeYear": "41.37%",
-    "time": 410,
-    "timeDay": 410,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
-    "dailyMinutesDown": {
-      "2024-05-02": 19
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 458,
+    "timeDay": 458,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
+    "dailyMinutesDown": {}
     }
   },
   {
