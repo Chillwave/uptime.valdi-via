@@ -8,6 +8,16 @@ sites:
     url: 119xx.valdi-via.com
     port: 11090
 
+  - name: DC 119
+    check: "tcp-ping"
+    url: 119xx.valdi-via.com
+    port: 51820
+
+  - name: DC 104
+    check: "tcp-ping"
+    url: 104xx.valdi-via.com
+    port: 1723
+
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
