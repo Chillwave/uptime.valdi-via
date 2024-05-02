@@ -5,17 +5,21 @@ repo: uptime.valdi-via # The name of this repository
 sites:
   - name: Dump1090 SFL
     url: http://119xx.valdi-via.com:11090
+  - name: Xfinity - Outage Map
+    url: https://www.xfinity.com/support/statusmap
+  - name: Comcast Buisness - Status Center
+    url: https://www.xfinity.com/support/statusmap
+  - name: Lumen - Status Center
+    url: https://status.ctl.io/
+  - name: CenturyLink - Account Portal
+    url: https://dh.centurylink.com/
+  - name: AT&T - Outage Map
+    url: https://www.att.com/outages/
+  - name: Verizon - Status Center
+    url: verizon.com/CheckStatus.
+
     
-  - name: DC 119
-    check: "tcp-ping"
-    url: 119xx.valdi-via.com
-    port: 51820
-
-  - name: DC 104
-    check: "tcp-ping"
-    url: 104xx.valdi-via.com
-    port: 1723
-
+    
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,6 +35,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Actions token expires on May 1, 2025 - service is reliant on this.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
