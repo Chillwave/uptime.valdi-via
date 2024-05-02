@@ -3,20 +3,20 @@ owner: chillwave # Your GitHub organization or username, where this repository l
 repo: uptime.valdi-via # The name of this repository
 
 sites:
-  - name: Dump1090 SFL
+  - name: Dump1090 South Florida
     url: http://119xx.valdi-via.com:11090
-  - name: AT&T - Outage Map
-    url: https://www.att.com/outages
   - name: Florida Power & Light - Outage Map
     url: https://www.fplmaps.com/
   - name: Duke Energy (FL)- Outage Map
     url: https://outagemaps.duke-energy.com/#/current-outages/fl
+  - name: AT&T - Outage Map
+    url: https://www.att.com/outages
   - name: Xfinity - Outage Map
     url: https://www.xfinity.com/support/statusmap
-  - name: Verizon - Status Center
+  - name: Verizon - Status
     url: https://verizon.com/CheckStatus
-  - name: Comcast Buisness - Status Center
-    url: https://www.xfinity.com/support/statusmap
+  - name: Comcast Buisness - Status
+    url: https://business.comcast.com/status/
   - name: Lumen - Account Portal
     url: https://www.lumen.com/login
   - name: CenturyLink - Account Portal
