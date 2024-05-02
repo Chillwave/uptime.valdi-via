@@ -1,42 +1,22 @@
 [
   {
-    "name": "DC 104XX",
-    "url": "104xx.valdi-via.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "dc-104-xx",
-    "status": "down",
-    "uptime": "0.59%",
-    "uptimeDay": "0.59%",
-    "uptimeWeek": "0.59%",
-    "uptimeMonth": "0.59%",
-    "uptimeYear": "0.59%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-05-01": 1
-    }
-  },
-  {
-    "name": "DC 118XX",
+    "name": "Dump1090 SFL",
     "url": "119xx.valdi-via.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "dc-118-xx",
+    "slug": "dump1090-sfl",
     "status": "down",
-    "uptime": "92.58%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "92.58%",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-02": 0
     }
   }
 ]
