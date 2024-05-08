@@ -97,19 +97,19 @@
     "url": "https://verizon.com/CheckStatus",
     "icon": "https://icons.duckduckgo.com/ip3/verizon.com.ico",
     "slug": "verizon-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 766,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 588,
+    "timeDay": 616,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-05-08": 0
+      "2024-05-08": 6
     }
   },
   {
