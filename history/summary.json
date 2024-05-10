@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/119xx.valdi-via.com.ico",
     "slug": "dump1090-south-florida",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 549,
     "timeDay": 684,
-    "timeWeek": 587,
+    "timeWeek": 599,
     "timeMonth": 549,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -115,9 +115,9 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 419,
     "timeMonth": 436,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-10": 0
+    }
   },
   {
     "name": "Lumen - Account Portal",
