@@ -115,9 +115,9 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 1356,
     "timeMonth": 1164,
     "timeYear": 1164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-11": 0
+    }
   },
   {
     "name": "Lumen - Account Portal",
