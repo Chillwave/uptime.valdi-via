@@ -115,19 +115,19 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1626,
     "timeDay": 2697,
     "timeWeek": 1833,
     "timeMonth": 1626,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2024-05-11": 22
+      "2024-05-11": 15
     }
   },
   {
