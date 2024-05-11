@@ -115,7 +115,7 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
