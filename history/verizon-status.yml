@@ -1,7 +1,7 @@
 url: https://verizon.com/CheckStatus
-status: up
-code: 200
-responseTime: 84
-lastUpdated: 2024-05-24T23:01:24.562Z
+status: down
+code: 503
+responseTime: 674
+lastUpdated: 2024-05-25T10:33:24.041Z
 startTime: 2024-05-02T02:11:32.413Z
 generator: Upptime <https://github.com/upptime/upptime>
