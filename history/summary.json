@@ -6,8 +6,8 @@
     "slug": "dump1090-south-florida",
     "status": "down",
     "uptime": "81.37%",
-    "uptimeDay": "36.38%",
-    "uptimeWeek": "30.33%",
+    "uptimeDay": "35.98%",
+    "uptimeWeek": "30.27%",
     "uptimeMonth": "74.59%",
     "uptimeYear": "81.37%",
     "time": 569,
@@ -16,7 +16,7 @@
     "timeMonth": 581,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2024-06-14": 697,
+      "2024-06-14": 702,
       "2024-06-13": 219,
       "2024-06-12": 1116,
       "2024-06-11": 1440,
@@ -167,19 +167,19 @@
     "url": "https://dh.centurylink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dh.centurylink.com.ico",
     "slug": "century-link-account-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 502,
-    "timeWeek": 615,
-    "timeMonth": 727,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 683,
+    "timeDay": 522,
+    "timeWeek": 606,
+    "timeMonth": 721,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-06-14": 0
+      "2024-06-14": 6
     }
   }
 ]
