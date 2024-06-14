@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/119xx.valdi-via.com.ico",
     "slug": "dump1090-south-florida",
     "status": "down",
-    "uptime": "82.28%",
-    "uptimeDay": "83.99%",
-    "uptimeWeek": "37.13%",
-    "uptimeMonth": "75.03%",
-    "uptimeYear": "82.28%",
+    "uptime": "81.37%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "30.33%",
+    "uptimeMonth": "74.59%",
+    "uptimeYear": "81.37%",
     "time": 569,
     "timeDay": 0,
     "timeWeek": 529,
     "timeMonth": 581,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2024-06-14": 11,
+      "2024-06-14": 697,
       "2024-06-13": 219,
       "2024-06-12": 1116,
       "2024-06-11": 1440,
@@ -167,9 +167,9 @@
     "url": "https://dh.centurylink.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dh.centurylink.com.ico",
     "slug": "century-link-account-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -178,6 +178,8 @@
     "timeWeek": 615,
     "timeMonth": 727,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-14": 0
+    }
   }
 ]
