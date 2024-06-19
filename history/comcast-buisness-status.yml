@@ -1,7 +1,7 @@
 url: https://business.comcast.com/status/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-19T17:17:32.554Z
+status: up
+code: 200
+responseTime: 2167
+lastUpdated: 2024-06-19T17:27:07.204Z
 startTime: 2024-05-02T02:11:33.100Z
 generator: Upptime <https://github.com/upptime/upptime>
