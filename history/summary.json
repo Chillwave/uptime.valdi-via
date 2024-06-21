@@ -6,8 +6,8 @@
     "slug": "dump1090-south-florida",
     "status": "up",
     "uptime": "71.05%",
-    "uptimeDay": "15.44%",
-    "uptimeWeek": "2.21%",
+    "uptimeDay": "16.49%",
+    "uptimeWeek": "2.36%",
     "uptimeMonth": "53.91%",
     "uptimeYear": "71.05%",
     "time": 568,
@@ -135,10 +135,10 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "99.20%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 1658,
@@ -147,6 +147,7 @@
     "timeMonth": 1676,
     "timeYear": 1658,
     "dailyMinutesDown": {
+      "2024-06-21": 0,
       "2024-06-20": 81,
       "2024-05-11": 52
     }
