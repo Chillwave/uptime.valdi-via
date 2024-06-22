@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "71.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.73%",
-    "uptimeMonth": "55.50%",
+    "uptimeWeek": "19.78%",
+    "uptimeMonth": "55.52%",
     "uptimeYear": "71.74%",
     "time": 567,
     "timeDay": 538,
@@ -135,9 +135,9 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "95.44%",
+    "uptimeDay": "95.43%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.70%",
@@ -147,6 +147,7 @@
     "timeMonth": 1883,
     "timeYear": 1794,
     "dailyMinutesDown": {
+      "2024-06-22": 0,
       "2024-06-21": 86,
       "2024-06-20": 81,
       "2024-05-11": 52
@@ -158,19 +159,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lumen.com.ico",
     "slug": "lumen-account-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 765,
     "timeDay": 910,
     "timeWeek": 577,
     "timeMonth": 484,
     "timeYear": 765,
-    "dailyMinutesDown": {
-      "2024-06-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CenturyLink - Account Portal",
