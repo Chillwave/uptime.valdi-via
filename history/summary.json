@@ -135,19 +135,19 @@
     "url": "https://business.comcast.com/status/",
     "icon": "https://icons.duckduckgo.com/ip3/business.comcast.com.ico",
     "slug": "comcast-buisness-status",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "99.18%",
-    "time": 2093,
-    "timeDay": 2040,
-    "timeWeek": 2333,
-    "timeMonth": 2230,
-    "timeYear": 2093,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.17%",
+    "time": 2090,
+    "timeDay": 1997,
+    "timeWeek": 2324,
+    "timeMonth": 2226,
+    "timeYear": 2090,
     "dailyMinutesDown": {
-      "2024-06-30": 0,
+      "2024-06-30": 6,
       "2024-06-29": 57,
       "2024-06-28": 73,
       "2024-06-27": 87,
@@ -186,9 +186,9 @@
     "slug": "century-link-account-portal",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "44.35%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "43.95%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.06%",
     "time": 672,
     "timeDay": 585,
@@ -196,7 +196,7 @@
     "timeMonth": 666,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-06-30": 801
+      "2024-06-30": 807
     }
   }
 ]
